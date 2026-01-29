@@ -50,9 +50,8 @@ Java JDK 8 or higher
 
 Any Java-supported IDE or command line
 
-📥 Installation
-git clone https://github.com/your-username/banking-system.git
-cd banking-system
+
+
 
 ▶ Run the Application
 javac Main.java
